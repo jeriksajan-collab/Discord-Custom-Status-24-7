@@ -1,3 +1,9 @@
+discord.py
+aiohttp
 requests
-websocket-client
-Flask
+urllib3
+beautifulsoup4
+cloudscraper
+colorama
+pysocks
+pyCraft
